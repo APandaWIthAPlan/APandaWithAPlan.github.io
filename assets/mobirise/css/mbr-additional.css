@@ -1541,8 +1541,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rSnqpqdJ4o {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 120px;
+  padding-bottom: 90px;
 }
 .cid-rSnqpqdJ4o .mbr-media span {
   font-size: 48px;
@@ -1600,7 +1600,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSnrpM2hqJ {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rSnrpM2hqJ .mbr-text {
@@ -1615,6 +1615,11 @@ section.lazy-placeholder:after {
 .cid-rSnrpM2hqJ .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-rVpCfzK4zY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rSnz7aTLm5 {
   padding-top: 90px;
@@ -2581,8 +2586,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rSnU7ouA7K {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
 .cid-rSnU7ouA7K .card-img {
@@ -3094,7 +3099,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rU5h0TAtJX {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -3607,7 +3612,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rU5hqHEJUe {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
